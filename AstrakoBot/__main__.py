@@ -225,7 +225,7 @@ def start(update: Update, context: CallbackContext):
                      [
                          InlineKeyboardButton(
                              text="🚫 Gban Logs",
-                             url="https://t.me/joinchat/dbbdbdbdbdd")
+                             url="https://t.me/dbbdbdbdbdd")
                      ]]))
     else:
         update.effective_message.reply_text(
