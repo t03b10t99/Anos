@@ -59,8 +59,8 @@ Dibuat khusus untuk memberantas jamet tele kampang yang meresahkan.
 Saya hanya robot tapi juga bisa sange, jangan lupa pap tt ya asu!!
 ━─━─━─━─━─━─━─━─━─━─━
 
-▪**Managed with by:** [KOALA🐨](https://t.me/manusiarakitann)
-▪**JOIN MY CH OFFICIAL:** [CTH](http://t.me/caritemanhidupofficial)
+▪**Managed with by:** [FERI](https://t.me/xflicks)
+▪**JOIN MY CH OFFICIAL:** [GRUP](http://t.me/masukajaudhh)
 
 ━─━─━─━─━─━─━─━─━─━─━
 Tekan /help untuk melihat daftar fitur saya.
@@ -91,7 +91,7 @@ ASTRAKOBOT_IMG = "https://i.ibb.co/9gqtY04/IMG-20210129-004109-607.jpg"
 DONATE_STRING = """Silahkan Donasi Ke sini 
 biar gw bisa update sistem bot nya lagi ya asu.. 
 kalau ga mau donasi dahlah kalau error gausah ngeluh kontol. 
-user gratisan gausah sok keras; [KOALA 🐨](https://t.me/manusiarakitann), or [SUBS MY CH](https://t.me/caritemanhidupofficial)."""
+user gratisan gausah sok keras; [FERI](https://t.me/xflicks), or [MASUK GRUP](https://t.me/masukajaudhh)."""
 
 IMPORTED = {}
 MIGRATEABLE = []
