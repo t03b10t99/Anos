@@ -5,7 +5,7 @@
    <br>
    <br>
 </p>
-<h1>KOALA BOT</h1>
+<h1>ANOS BOT</h1>
 <b>BOT NYA TOXIC HATI - HATI!</b>
 <br>
 <br>
