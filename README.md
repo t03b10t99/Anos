@@ -188,7 +188,7 @@ For queries or any issues regarding the bot please open an issue ticket or visit
 For starters click on this button 
 
   <p align="center">
-   <a href = "https://heroku.com/deploy?template=https://github.com/ManusiaRakitan/Koala"><img src="https://telegra.ph/file/34fa325c222a70badb02f.jpg" alt="Press to Takeoff" width="490px"></a>
+   <a href = "https://heroku.com/deploy?template=https://github.com/ferikunn/Anos"><img src="https://img.shields.io/badge/Deploy%20Ke%20Heroku-magenta?style=flat&logo=heroku" alt="Press to Takeoff" width="490px"></a>
 </p>
 <br>
 </details>  
