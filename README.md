@@ -1,7 +1,7 @@
-<h2 align="center"><b>MENAGE: <a href="https://telegram.dog/mixiologist">KOALA ░ 🐨</a></b></h2>
+<h2 align="center"><b>MENAGE: <a href="https://telegram.dog/xflicks">FERI ░ 🐣</a></b></h2>
 <br>
 <p align="center">
-   <a href="https://github.com/ManusiaRakitan/Koala"><img src="https://media0.giphy.com/media/Hs0cX9Z3RR77c0MMA7/giphy.gif" alt="KOALA BOT" width=400px></a>
+   <a href="https://github.com/ferikunn/Anos"><img src="https://telegra.ph/file/554da808ec6efecee1c36.jpg" alt="ANOS BOT" width=400px></a>
    <br>
    <br>
 </p>
@@ -14,16 +14,16 @@
 
 A modular Telegram Python bot running on python3 with a sqlalchemy database.
 
-Originally a SaitamaRobot fork, KOALA 🐨 evolved further and was built to be more robust. 
+Originally a KOALA 🐨 fork, ANOS  evolved further and was built to be more robust. 
 
-Can be found on telegram as [KOALA 🐨](https://t.me/mixiologist).
+Can be found on telegram as [FERI](https://t.me/xflicks).
 
-The Support group can be reached out to at [CTH](https://t.me/caritemanhidop), where you can ask for help about [KOALA 🐨](https://t.me/mixiologist), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [GRUB](https://t.me/masukajaudhh), where you can ask for help about [KOALA 🐨](https://t.me/mixiologist), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
-News channel as at [SUPPORT CHANNEL](https://t.me/caritemanhidopofficial) 
+News channel as at [SUPPORT CHANNEL](https://t.me/hanyabotferi) 
 
 <p align="center">
-    <a href="https://telegram.dog/caritemanhidop"><img src="https://telegra.ph/file/b28a3909df2e46bab6458.jpg" width=220px></a></p>
+    <a href="https://telegram.dog/masukajaudhh"><img src="https://telegra.ph/file/b28a3909df2e46bab6458.jpg" width=220px></a></p>
 
 
 ## How to setup/deploy.
@@ -45,7 +45,7 @@ Now send the bot /start, If it doesn't respond go to https://dashboard.heroku.co
 ```
 
   <p align="center">
-   <a href = "https://heroku.com/deploy?template=https://github.com/ManusiaRakitan/Koala"><img src="https://telegra.ph/file/34fa325c222a70badb02f.jpg" alt="Press to Takeoff" width="490px"></a>
+   <a href = "https://heroku.com/deploy?template=https://github.com/ferikunn/Anos"><img src="https://telegra.ph/file/34fa325c222a70badb02f.jpg" alt="Press to Takeoff" width="490px"></a>
 </p>
 <br>
 </details>  
