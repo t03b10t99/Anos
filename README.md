@@ -18,7 +18,7 @@ Originally a KOALA 🐨 fork, ANOS  evolved further and was built to be more rob
 
 Can be found on telegram as [FERI](https://t.me/xflicks).
 
-The Support group can be reached out to at [GRUB](https://t.me/masukajaudhh), where you can ask for help about [KOALA 🐨](https://t.me/mixiologist), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [GRUB](https://t.me/masukajaudhh), where you can ask for help about [FERI](https://t.me/xflicks), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
 News channel as at [SUPPORT CHANNEL](https://t.me/hanyabotferi) 
 
@@ -45,7 +45,7 @@ Now send the bot /start, If it doesn't respond go to https://dashboard.heroku.co
 ```
 
   <p align="center">
-   <a href = "https://heroku.com/deploy?template=https://github.com/ferikunn/Anos"><img src="https://telegra.ph/file/34fa325c222a70badb02f.jpg" alt="Press to Takeoff" width="490px"></a>
+   <a href = "https://heroku.com/deploy?template=https://github.com/ferikunn/Anos"><img src="https://img.shields.io/badge/Deploy%20Ke%20Heroku-magenta?style=flat&logo=heroku" alt="Press to Takeoff" width="490px"></a>
 </p>
 <br>
 </details>  
