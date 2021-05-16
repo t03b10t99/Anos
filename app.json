@@ -42,11 +42,11 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "1073848376"
+         "value": "1669508271"
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "mixiologist"
+         "value": "xflicks"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to AstrakoBot support than consider you made an enemy.",
@@ -76,7 +76,7 @@
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother AstrakoBot support then keep the current ID's here at they are and add yours.",
          "required": false,
-         "value": "1073848376"
+         "value": "1669508271"
       },
       "sw_api": {
          "description": "Spamwatch API Token, Get one from @SpamWatchBot.",
@@ -90,12 +90,12 @@
       "DRAGONS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "1073848376"
+         "value": "1669508271"
       },
       "DEMONS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
          "required": false,
-         "value": "1073848376"
+         "value": "1669508271"
       },
       "WOLVES": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
