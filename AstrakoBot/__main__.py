@@ -86,7 +86,7 @@ Dan berikut ini:
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-ASTRAKOBOT_IMG = "https://i.ibb.co/9gqtY04/IMG-20210129-004109-607.jpg"
+ASTRAKOBOT_IMG = "https://telegra.ph/file/554da808ec6efecee1c36.jpg"
 
 DONATE_STRING = """Silahkan Donasi Ke sini 
 biar gw bisa update sistem bot nya lagi ya asu.. 
@@ -215,8 +215,8 @@ def start(update: Update, context: CallbackContext):
                     ],
                      [
                          InlineKeyboardButton(
-                             text="👥 CTH Grup",
-                             url=f"https://t.me/caritemanhidop"),
+                             text="👥 Grup",
+                             url=f"https://t.me/masukajaudhh"),
                      
                          InlineKeyboardButton(
                              text="🍭 Help & Command",
@@ -225,7 +225,7 @@ def start(update: Update, context: CallbackContext):
                      [
                          InlineKeyboardButton(
                              text="🚫 Gban Logs",
-                             url="https://t.me/joinchat/SKYP-Hv8tqZ-UvYq")
+                             url="https://t.me/joinchat/dbbdbdbdbdd")
                      ]]))
     else:
         update.effective_message.reply_text(
