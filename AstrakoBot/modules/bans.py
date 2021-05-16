@@ -46,7 +46,7 @@ def ban(update: Update, context: CallbackContext) -> str:
             raise
 
     if user_id == bot.id:
-        message.reply_text("gw banned lu kampang 😡")
+        message.reply_text("gw banned lu Anjingg 😡")
         return log_message
 
     if is_user_ban_protected(chat, user_id, member) and user not in DEV_USERS:
@@ -86,7 +86,7 @@ def ban(update: Update, context: CallbackContext) -> str:
         chat.kick_member(user_id)
         # bot.send_sticker(chat.id, BAN_STICKER)  # banhammer marie sticker
         reply = (
-            f"<code>❕🐨</code><b>Ban Jamet Duls Gaes</b>\n"
+            f"<code>❕🐧</code><b>Ban Jamet Duls Gaes</b>\n"
             f"<code> </code><b>•  User:</b> {mention_html(member.user.id, html.escape(member.user.first_name))}"
         )
         if reason:
@@ -262,13 +262,13 @@ def punchme(update: Update, context: CallbackContext):
     user_id = update.effective_message.from_user.id
     if is_user_admin(update.effective_chat, user_id):
         update.effective_message.reply_text(
-            "I wish I could... but you're an admin.")
+            "Aku pengen sih... Tapi lu admin :).")
         return
 
     res = update.effective_chat.unban_member(
         user_id)  # unban on current user = kick
     if res:
-        update.effective_message.reply_text("*punches you out of the group*")
+        update.effective_message.reply_text("*Memukul Keluar dari Grub😅*")
     else:
         update.effective_message.reply_text("Huh? I can't :/")
 
@@ -310,7 +310,7 @@ def unban(update: Update, context: CallbackContext) -> str:
         return log_message
 
     chat.unban_member(user_id)
-    message.reply_text("Baginda koala mengampuni mu jamet 🐨")
+    message.reply_text("Baginda Anos mengampuni mu jamet")
 
     log = (
         f"<b>{html.escape(chat.title)}:</b>\n"
