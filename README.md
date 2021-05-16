@@ -23,7 +23,7 @@ The Support group can be reached out to at [GRUB](https://t.me/masukajaudhh), wh
 News channel as at [SUPPORT CHANNEL](https://t.me/hanyabotferi) 
 
 <p align="center">
-    <a href="https://telegram.dog/masukajaudhh"><img src="https://telegra.ph/file/b28a3909df2e46bab6458.jpg" width=220px></a></p>
+    <a href="https://telegram.dog/masukajaudhh"><img src="https://img.shields.io/badge/Deploy%20Ke%20Heroku-magenta?style=flat&logo=heroku" width=220px></a></p>
 
 
 ## How to setup/deploy.
