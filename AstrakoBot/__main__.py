@@ -59,7 +59,7 @@ Dibuat khusus untuk memberantas jamet tele kampang yang meresahkan.
 Saya hanya robot tapi juga bisa sange, jangan lupa pap tt ya asu!!
 ━─━─━─━─━─━─━─━─━─━─━
 
-▪**Managed with by:** [FERI](https://t.me/xflicks)
+▪**Managed with by:** [ɢᴏᴏᴅ ʙᴏʏs](https://t.me/GB_03101999)
 ▪**JOIN MY CH OFFICIAL:** [GRUP](http://t.me/masukajaudhh)
 
 ━─━─━─━─━─━─━─━─━─━─━
@@ -86,12 +86,12 @@ Dan berikut ini:
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-ASTRAKOBOT_IMG = "https://telegra.ph/file/554da808ec6efecee1c36.jpg"
+ASTRAKOBOT_IMG = "https://telegra.ph/file/7068ee24ba578012e83a1.jpg"
 
 DONATE_STRING = """Silahkan Donasi Ke sini 
 biar gw bisa update sistem bot nya lagi ya asu.. 
 kalau ga mau donasi dahlah kalau error gausah ngeluh kontol. 
-user gratisan gausah sok keras; [FERI](https://t.me/xflicks), or [MASUK GRUP](https://t.me/masukajaudhh)."""
+user gratisan gausah sok keras; [ɢᴏᴏᴅ ʙᴏʏs](https://t.me/GB_03101999), or [MASUK GRUP](https://t.me/masukajaudhh)."""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -224,8 +224,8 @@ def start(update: Update, context: CallbackContext):
                      ],
                      [
                          InlineKeyboardButton(
-                             text="🚫 Gban Logs",
-                             url="https://t.me/dbbdbdbdbdd")
+                             text="🔈 Channel BorutoID",
+                             url="https://t.me/BorutoID")
                      ]]))
     else:
         update.effective_message.reply_text(
