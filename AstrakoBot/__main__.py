@@ -61,6 +61,7 @@ Saya hanya robot tapi juga bisa sange, jangan lupa pap tt ya asu!!
 
 ▪**Managed with by:** [ɢᴏᴏᴅ ʙᴏʏs](https://t.me/GB_03101999)
 ▪**JOIN MY CH OFFICIAL:** [GRUP](http://t.me/masukajaudhh)
+▪**PANDUAN MEMUTAR MISIK:** [KLIK](https://telegra.ph/GB-MUSIK-BOT-05-12)
 
 ━─━─━─━─━─━─━─━─━─━─━
 Tekan /help untuk melihat daftar fitur saya.
