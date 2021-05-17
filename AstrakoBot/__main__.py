@@ -225,7 +225,7 @@ def start(update: Update, context: CallbackContext):
                      [
                          InlineKeyboardButton(
                              text="🔈 Channel BorutoID",
-                             url="https://t.me/BorutoID")
+                             url="https://t.me/GB_BorutoID")
                      ]]))
     else:
         update.effective_message.reply_text(
